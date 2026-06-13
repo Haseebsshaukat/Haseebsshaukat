@@ -71,10 +71,16 @@ Multilingual speech translation system using Whisper and text-to-speech technolo
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseebsshaukat&show_icons=true)
+## 📈 Professional Snapshot
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebsshaukat&layout=compact)
-
+| Metric | Value |
+|----------|----------|
+| Public Repositories | 26 |
+| Contributions (2026) | 38 |
+| Contributions (2025) | 81 |
+| Contributions (2024) | 41 |
+| GitHub Achievements | 2 |
+| Experience Areas | AI, Full-Stack Development, Data Annotation |
 ---
 
 ## 🤝 Connect With Me
