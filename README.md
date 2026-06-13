@@ -83,7 +83,7 @@ Multilingual speech translation system using Whisper and text-to-speech technolo
 
 💼 LinkedIn: https://linkedin.com/in/haseeb-shoukat-5ab0a02b3
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: Coming Soon](https://haseebsshaukat.github.io/Resume_live/
 
 ---
 
